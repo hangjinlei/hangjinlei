@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Timothy
+- 🏢 I work at Microsoft where I help build and support developer communities
+- 🦜 I’m on Twitter https://twitter.com/jinlei_hang
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love you
+
+![Timothy's github stats](https://github-readme-stats.vercel.app/api?username=hangjinlei&show_icons=true)
