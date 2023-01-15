@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Timothy
 - 🏢 I work at Microsoft where I help build and support developer communities
-- 🦜 I’m on Twitter https://twitter.com/jinlei_hang
+- 🦜 I’m on Twitter https://twitter.com/hangjinlei
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
 
