@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Timothy
+- 🔭 I’m Jinlei Hang
 - 🏢 I work at Microsoft where I help build and support developer communities
 - 🦜 I’m on Twitter https://twitter.com/hangjinlei
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
 
-![Timothy's github stats](https://github-readme-stats.vercel.app/api?username=hangjinlei&show_icons=true)
+![Jinlei's github stats](https://github-readme-stats.vercel.app/api?username=hangjinlei&show_icons=true)
